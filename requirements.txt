@@ -1,0 +1,10 @@
+# Core dependencies
+Pillow==10.1.0
+pytesseract==0.3.10
+pyautogui==0.9.54
+keyboard==0.13.5
+ebooklib==0.18.0
+
+# Build tools
+py2app
+pyinstaller==6.3.0
