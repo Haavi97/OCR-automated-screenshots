@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 1. Run the application:
 ```bash
-python main.py
+python screenshot-ocr-automation.py
 ```
 
 2. Set up your scan:

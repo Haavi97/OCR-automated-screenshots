@@ -5,7 +5,6 @@ DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
     'packages': ['tkinter', 'PIL', 'pytesseract', 'keyboard', 'ebooklib'],
-    'iconfile': 'icon.icns',  # if you have an icon
     'plist': {
         'CFBundleName': "OCR Scanner",
         'CFBundleDisplayName': "OCR Scanner",
